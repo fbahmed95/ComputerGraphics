@@ -1,0 +1,1 @@
+We included the Favorites functionality. When clicking on the image, "X" denotes the symbol to change (add or remove) tags, while a highlighted star means that the image is tagged as favorite and if it is not highlighted it is not in favorites.
